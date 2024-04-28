@@ -19,11 +19,17 @@ The primary goal of this project is to examine the business activity on the ABC 
 # Project Structure
 This repository is organized as follows:
 
-•	**Data:** The original dataset used for the analysis.
+•	**marketplace_data_2019.csv:** The original dataset used for the analysis.
 
-•	**Notebooks:** Jupyter Notebooks containing data cleaning, exploratory analysis, visualizations, and business insights.
+•	**Edited Data.csv:** The edited dataset used for the analysis.
 
-•	**Reports:** Summary reports and presentations based on the analysis.
+•	**summary.csv** The summary table for the advertisers used to import into Power BI.
+
+•	**Exploratory_Data.ipynb:** Google Colaboratory containing data cleaning, exploratory analysis, visualizations.
+
+•	**Power BI** The data visualizations in Power BI.
+
+•	**Report.pdf:** Summary reports and presentations based on the analysis.
 
 # Key Insights
 Through this project, I've identified several key business insights, including:
